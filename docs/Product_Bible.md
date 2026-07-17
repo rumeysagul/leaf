@@ -67,17 +67,6 @@ The Month View is intended for overview and light annotations. Detailed planning
 
 
 
-### Progressive Detail
-
-Information becomes more detailed as users move deeper into the notebook.
-
-Month → overview
-
-Week → planning
-
-Day → reflection
-
-Each level complements the others but can also be used independently.
 
 
 ### Progressive Detail
@@ -91,3 +80,17 @@ Week → planning
 Day → reflection
 
 Each level complements the others but can also be used independently.
+
+## Notebook Library
+
+The Notebook Library should feel like a small collection of real notebooks.
+
+Notebooks are displayed as physical notebook covers rather than a list or generic cards.
+
+Opening a notebook should feel natural, using a subtle opening animation that reinforces the feeling of interacting with a real notebook.
+
+Creating a notebook requires only:
+- Notebook Name
+- Cover Color
+
+All notebooks share the same internal structure.
