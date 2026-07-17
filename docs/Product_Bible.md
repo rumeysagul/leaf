@@ -78,3 +78,16 @@ Week → planning
 Day → reflection
 
 Each level complements the others but can also be used independently.
+
+
+### Progressive Detail
+
+Information becomes more detailed as users move deeper into the notebook.
+
+Month → overview
+
+Week → planning
+
+Day → reflection
+
+Each level complements the others but can also be used independently.
