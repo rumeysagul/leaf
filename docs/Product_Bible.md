@@ -64,3 +64,17 @@ Generous margins around the calendar provide free space for handwritten notes, s
 Leaf never forces predefined sections such as "Goals", "To-Do", or "Notes". Users decide how to use the available space.
 
 The Month View is intended for overview and light annotations. Detailed planning belongs to the Week and Day views.
+
+
+
+### Progressive Detail
+
+Information becomes more detailed as users move deeper into the notebook.
+
+Month → overview
+
+Week → planning
+
+Day → reflection
+
+Each level complements the others but can also be used independently.
