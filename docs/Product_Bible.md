@@ -94,3 +94,13 @@ Creating a notebook requires only:
 - Cover Color
 
 All notebooks share the same internal structure.
+
+## Design Principle — Guided Freedom
+
+Leaf provides structure, not rules.
+
+Each view offers a clear layout while leaving enough open space for users to create their own system.
+
+The app never assumes how a notebook should be used.
+
+Users are free to write, draw, place stickers, create lists, connect ideas with arrows, or leave areas completely empty.
